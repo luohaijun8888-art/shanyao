@@ -120,5 +120,96 @@
       }
     ]
   },
-  "records": []
+  "records": [
+    {
+      "id": "QUO-588133",
+      "name": "桌子",
+      "customer": "老曹",
+      "date": "2026-05-29",
+      "qty": 1,
+      "materialCost": "¥ 518.11",
+      "finalPrice": "¥ 811.97",
+      "state": {
+        "metals": [
+          {
+            "name": "脚管",
+            "material": "iron",
+            "type": "rect",
+            "size_w": 40,
+            "size_h": 20,
+            "thickness": 1.5,
+            "length": 730,
+            "qty": 6,
+            "treatment": "powder"
+          },
+          {
+            "name": "横连管",
+            "material": "iron",
+            "type": "rect",
+            "size_w": 40,
+            "size_h": 20,
+            "thickness": 1.5,
+            "length": 1120,
+            "qty": 7,
+            "treatment": "powder"
+          },
+          {
+            "name": "斜撑管",
+            "material": "iron",
+            "type": "rect",
+            "size_w": 40,
+            "size_h": 20,
+            "thickness": 1.5,
+            "length": 200,
+            "qty": 5,
+            "treatment": "powder"
+          },
+          {
+            "name": "套管",
+            "material": "iron",
+            "type": "rect",
+            "size_w": 35,
+            "size_h": 15,
+            "thickness": 1.5,
+            "length": 200,
+            "qty": 4,
+            "treatment": "powder"
+          }
+        ],
+        "boards": [
+          {
+            "name": "面板",
+            "boardId": "solid18",
+            "width": 1200,
+            "length": 2400,
+            "kerf": 4
+          }
+        ],
+        "accessories": [
+          {
+            "name": "重型阻尼铰链",
+            "qty": 4,
+            "price": 3.8
+          },
+          {
+            "name": "标准三合一连接件 (套)",
+            "qty": 24,
+            "price": 0.35
+          }
+        ],
+        "packaging": [
+          {
+            "name": "加厚加硬五层纸箱 (大)",
+            "qty": 1,
+            "price": 15
+          },
+          {
+            "name": "EPE珍珠棉型材防撞 (套)",
+            "qty": 1.5,
+            "price": 4.5
+          }
+        ]
+      }
+    }
+  ]
 }
