@@ -1,5 +1,131 @@
 [
   {
+    "timestamp": "2026/5/29 15:53:39",
+    "summary": "桌子 | 历史单数: 0",
+    "db": {
+      "metals": [
+        {
+          "id": "iron",
+          "name": "普通冷轧钢/铁",
+          "density": 3.3,
+          "price": 6.5
+        },
+        {
+          "id": "ss",
+          "name": "不锈钢 (304)",
+          "density": 7.93,
+          "price": 18.5
+        },
+        {
+          "id": "alu",
+          "name": "工业铝合金",
+          "density": 2.7,
+          "price": 22
+        },
+        {
+          "id": "copper",
+          "name": "紫铜/黄铜",
+          "density": 8.96,
+          "price": 68
+        }
+      ],
+      "treatments": [
+        {
+          "id": "powder",
+          "name": "粉末静电喷涂 (喷粉)",
+          "price": 25
+        },
+        {
+          "id": "chrome",
+          "name": "镜面电镀铬",
+          "price": 85
+        },
+        {
+          "id": "brush",
+          "name": "不锈钢表层拉丝",
+          "price": 18
+        },
+        {
+          "id": "anodize",
+          "name": "铝材阳极氧化",
+          "price": 45
+        },
+        {
+          "id": "none",
+          "name": "无表面处理 (素材)",
+          "price": 0
+        }
+      ],
+      "boards": [
+        {
+          "id": "mdf18",
+          "name": "中纤板 (MDF 18mm)",
+          "price": 120
+        },
+        {
+          "id": "ply18",
+          "name": "多层胶合板 (18mm)",
+          "price": 185
+        },
+        {
+          "id": "pb18",
+          "name": "实木刨花板 (18mm)",
+          "price": 98
+        },
+        {
+          "id": "solid18",
+          "name": "松木指接板 (18mm)",
+          "price": 310
+        }
+      ],
+      "accessories": [
+        {
+          "id": "hinge",
+          "name": "重型阻尼铰链",
+          "price": 3.8
+        },
+        {
+          "id": "handle",
+          "name": "现代极简拉手",
+          "price": 8.5
+        },
+        {
+          "id": "slide",
+          "name": "三节静音阻尼滑轨 (副)",
+          "price": 14.5
+        },
+        {
+          "id": "connector",
+          "name": "标准三合一连接件 (套)",
+          "price": 0.35
+        }
+      ],
+      "packaging": [
+        {
+          "id": "carton",
+          "name": "加厚加硬五层纸箱 (大)",
+          "price": 15
+        },
+        {
+          "id": "epe",
+          "name": "EPE珍珠棉型材防撞 (套)",
+          "price": 4.5
+        },
+        {
+          "id": "bubble",
+          "name": "环保气泡保护膜 (㎡)",
+          "price": 1.2
+        },
+        {
+          "id": "corner",
+          "name": "高弹防刮护角 (4只/组)",
+          "price": 2
+        }
+      ]
+    },
+    "records": []
+  },
+  {
     "timestamp": "2026/5/29 15:51:09",
     "summary": "桌子 | 历史单数: 0",
     "db": {
